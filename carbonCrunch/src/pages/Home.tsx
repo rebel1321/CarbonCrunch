@@ -25,7 +25,7 @@ const Home = () => {
         ))}
       </div>
       {/* Bottom section */}
-      <div className="mt-0">
+      <div >
         <LastSection />
       </div>
     </div>
